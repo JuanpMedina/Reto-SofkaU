@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="caja-fin">
+        <h1 class="<%= estado == 'retirado' ? 'retirado' : estado == 'ganador' ? 'ganador' : 'perdedor' %>"><%= estado == 'retirado' ? 'TE RETIRASTE' : estado == 'ganador' ? 'FELICITACIONES...GANASTE' : 'PERDISTE' %></h1>
+        <h2>El jugador <%=jugador%> ha ganado $ <%=premio%> Dolares </h2>
+        <br>
+        <a  href="/"><button class="send">REGRESAR AL MENU PRINCIPAL</button></a>
+        <br>
+        <br>
+        <a href="/historico"><button class="send" >CONSULTAR EL HISTORIAL DE RONDAS</button></a>
+    </section>
+    
+</body>
+</html>

@@ -1,0 +1,177 @@
+[
+    {
+        "idPregunta": "1",
+        "correcta": "90 Minutos",
+        "incorrecta1": "45 Minutos",
+        "incorrecta2": "1 Hora",
+        "incorrecta3": "2 Horas"
+    },
+    {
+        "idPregunta": "2",
+        "correcta": "Leonardo da Vinci",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Leonel Messi",
+        "incorrecta3": "Diomedes diaz"
+    },
+    {
+        "idPregunta": "3",
+        "correcta": "Montevideo",
+        "incorrecta1": "Bogota",
+        "incorrecta2": "Cancun",
+        "incorrecta3": "Lima"
+    },
+    {
+        "idPregunta": "4",
+        "correcta": "K",
+        "incorrecta1": "Ca",
+        "incorrecta2": "H",
+        "incorrecta3": "Na"
+    },
+    {
+        "idPregunta": "5",
+        "correcta": "3.141592",
+        "incorrecta1": "3.149215",
+        "incorrecta2": "3.144423",
+        "incorrecta3": "3.144121"
+    },
+    {
+        "idPregunta": "6",
+        "correcta": "Baloncesto",
+        "incorrecta1": "Futbol",
+        "incorrecta2": "Rugby",
+        "incorrecta3": "Tennis"
+    },
+    {
+        "idPregunta": "7",
+        "correcta": "1890",
+        "incorrecta1": "2000",
+        "incorrecta2": "1980",
+        "incorrecta3": "1850"
+    },
+    {
+        "idPregunta": "8",
+        "correcta": "Africa",
+        "incorrecta1": "America",
+        "incorrecta2": "Europa",
+        "incorrecta3": "Oceania"
+    },
+    {
+        "idPregunta": "9",
+        "correcta": "Un músculo",
+        "incorrecta1": "Un hueso",
+        "incorrecta2": "Una celula",
+        "incorrecta3": "Un Tejido"
+    },
+    {
+        "idPregunta": "10",
+        "correcta": "6",
+        "incorrecta1": "7",
+        "incorrecta2": "5",
+        "incorrecta3": "8"
+    },
+    {
+        "idPregunta": "11",
+        "correcta": "España",
+        "incorrecta1": "Colombia",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Francia"
+    },
+    {
+        "idPregunta": "12",
+        "correcta": "Beethoven",
+        "incorrecta1": "Vivaldi",
+        "incorrecta2": "Verdi",
+        "incorrecta3": "Bad Bunny"
+    },
+    {
+        "idPregunta": "13",
+        "correcta": "Búlgaro",
+        "incorrecta1": "Ingles",
+        "incorrecta2": "Aleman",
+        "incorrecta3": "Español"
+    },
+    {
+        "idPregunta": "14",
+        "correcta": "Arañas",
+        "incorrecta1": "Incectos",
+        "incorrecta2": "Leones",
+        "incorrecta3": "Cucarachas"
+    },
+    {
+        "idPregunta": "15",
+        "correcta": "Superficie de un circulo",
+        "incorrecta1": "Diametro de un circulo",
+        "incorrecta2": "Volumen de un cilindro",
+        "incorrecta3": "Superficie de un paralelogramo"
+    },
+    {
+        "idPregunta": "16",
+        "correcta": "Lionel Messi",
+        "incorrecta1": "Cristiano Ronaldo",
+        "incorrecta2": "James Rodriguez",
+        "incorrecta3": "kylian mbappé"
+    },
+    {
+        "idPregunta": "17",
+        "correcta": "Mi",
+        "incorrecta1": "Sol",
+        "incorrecta2": "La",
+        "incorrecta3": "Do"
+    },
+    {
+        "idPregunta": "18",
+        "correcta": "5",
+        "incorrecta1": "7",
+        "incorrecta2": "3",
+        "incorrecta3": "10"
+    },
+    {
+        "idPregunta": "19",
+        "correcta": "3",
+        "incorrecta1": "5",
+        "incorrecta2": "2",
+        "incorrecta3": " 6"
+    },
+    {
+        "idPregunta": "20",
+        "correcta": "Equivalencia entre masa y energia",
+        "incorrecta1": "Circunferencia de un circulo",
+        "incorrecta2": "La teoria de probabilidad",
+        "incorrecta3": "Volumen de un cubo"
+    },
+    {
+        "idPregunta": "21",
+        "correcta": "Pelé",
+        "incorrecta1": "Maradona",
+        "incorrecta2": "Di Stefano",
+        "incorrecta3": "Lionel Messi"
+    },
+    {
+        "idPregunta": "22",
+        "correcta": "Todas las anteriores",
+        "incorrecta1": "Corazón Coraza",
+        "incorrecta2": "No te salves",
+        "incorrecta3": "Por siempre"
+    },
+    {
+        "idPregunta": "23",
+        "correcta": "70.7%",
+        "incorrecta1": "80.5%",
+        "incorrecta2": "50.2%",
+        "incorrecta3": "93.4%"
+    },
+    {
+        "idPregunta": "24",
+        "correcta": "273,15",
+        "incorrecta1": "230.32",
+        "incorrecta2": "580.43",
+        "incorrecta3": "196.14"
+    },
+    {
+        "idPregunta": "25",
+        "correcta": "3cm, 4cm, 5cm",
+        "incorrecta1": "5cm, 12cm, 20cm",
+        "incorrecta2": "3cm, 4cm, 7cm",
+        "incorrecta3": "7cm, 4cm, 6cm"
+    }
+]

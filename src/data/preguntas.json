@@ -1,0 +1,178 @@
+[
+    {
+        "idPregunta": "1",   
+        "idDificultad": "1",
+        "idCategoria": "1",
+        "pregunta": "¿Cuánto dura un partido de fútbol?"
+
+    },
+    {
+        "idPregunta": "2",
+        "idDificultad": "1",
+        "idCategoria": "2",
+        "pregunta": "¿Quien pinto la ultima cena?"
+
+    },
+    {
+        "idPregunta": "3",
+        "idDificultad": "1",
+        "idCategoria": "3",
+        "pregunta": "¿Cuál es la capital de Uruguay?"
+
+    },
+    {
+        "idPregunta": "4",
+        "idDificultad": "1",
+        "idCategoria": "4",
+        "pregunta": "¿Cuál es el símbolo del potasio?"
+
+    },
+    {
+        "idPregunta": "5",
+        "idDificultad": "1",
+        "idCategoria": "5",
+        "pregunta": "¿A cuánto equivale π?"
+
+    },
+    {
+        "idPregunta": "6",
+        "idDificultad": "2",
+        "idCategoria": "1",
+        "pregunta": "¿En qué deporte destacó Magic Johnson?"
+
+    },
+    {
+        "idPregunta": "7",
+        "idDificultad": "2",
+        "idCategoria": "2",
+        "pregunta": "¿En qué año se suicidó Van Gogh?"
+
+    },
+    {
+        "idPregunta": "8",
+        "idDificultad": "2",
+        "idCategoria": "3",
+        "pregunta": "¿Dónde se encuentra el río Nilo?"
+
+    },
+    {
+        "idPregunta": "9",
+        "idDificultad": "2",
+        "idCategoria": "4",
+        "pregunta": "¿Qué es el esternocleidomastoideo?"
+
+    },
+    {
+        "idPregunta": "10",
+        "idDificultad": "2",
+        "idCategoria": "5",
+        "pregunta": "Adivina cuántos años tengo sabiendo que la tercera parte de ellos menos 1 es igual a la sexta parte"
+
+    },
+    {
+        "idPregunta": "11",
+        "idDificultad": "3",
+        "idCategoria": "1",
+        "pregunta": "¿Quién ganó el mundial de 2010 en Sudáfrica?"
+
+    },
+    {
+        "idPregunta": "12",
+        "idDificultad": "3",
+        "idCategoria": "2",
+        "pregunta": "¿Cuál compositor de música clásica era zurdo?"
+
+    },
+    {
+        "idPregunta": "13",
+        "idDificultad": "3",
+        "idCategoria": "3",
+        "pregunta": "¿Cuál es el idioma tradicional en Bulgaria? "
+
+    },
+    {
+        "idPregunta": "14",
+        "idDificultad": "3",
+        "idCategoria": "4",
+        "pregunta": "¿A qué tienes miedo si sufres de aracnofobia? "
+
+    },
+    {
+        "idPregunta": "15",
+        "idDificultad": "3",
+        "idCategoria": "5",
+        "pregunta": "¿Qué formula es esta?S = π x R²"
+
+    },
+    {
+        "idPregunta": "16",
+        "idDificultad": "4",
+        "idCategoria": "1",
+        "pregunta": "¿Quién tiene más balones de oro?"
+
+    },
+    {
+        "idPregunta": "17",
+        "idDificultad": "4",
+        "idCategoria": "2",
+        "pregunta": "¿Qué nota musical hay entre re y fa?"
+
+    },
+    {
+        "idPregunta": "18",
+        "idDificultad": "4",
+        "idCategoria": "3",
+        "pregunta": "¿Cuántas estrellas tiene la bandera de China?"
+
+    },
+    {
+        "idPregunta": "19",
+        "idDificultad": "4",
+        "idCategoria": "4",
+        "pregunta": "¿Cuántas Leyes de Mendel hay?"
+
+    },
+    {
+        "idPregunta": "20",
+        "idDificultad": "4",
+        "idCategoria": "5",
+        "pregunta": "¿Qué expresa esta formula?e = mc²"
+
+    },
+    {
+        "idPregunta": "21",
+        "idDificultad": "5",
+        "idCategoria": "1",
+        "pregunta": "¿Quién es 'O Rei'?"
+
+    },
+    {
+        "idPregunta": "22",
+        "idDificultad": "5",
+        "idCategoria": "2",
+        "pregunta": "¿Cuál de estos poemas escribió Mario Benedetti?"
+
+    },
+    {
+        "idPregunta": "23",
+        "idDificultad": "5",
+        "idCategoria": "3",
+        "pregunta": "¿Por cuanta agua está cubierta la Tierra?"
+
+    },
+    {
+        "idPregunta": "24",
+        "idDificultad": "5",
+        "idCategoria": "4",
+        "pregunta": "¿Cuántos grados Kelvin son 0 grados Celcius?"
+
+    },
+    {
+        "idPregunta": "25",
+        "idDificultad": "5",
+        "idCategoria": "5",
+        "pregunta": "¿Cuáles de los siguientes triángulos, según sus medidas son rectángulos?"
+
+    }
+
+]

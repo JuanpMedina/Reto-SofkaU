@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Document</title>
+</head>
+<body>
+    <img src="/img/sofka.jpg" style="text-align: center; border-radius: 9px;" alt="">
+    <h1 class="send" style="text-align: center;">HISTORIAL DE PARTICIPANTES</h1>
+    <table>
+        <thead>
+            <th>JUGADORES</th>
+            <th>PARTIDAS GANADAS</th>
+            <th>PARTIDAS RETIRADAS</th>
+            <th>PARTIDAS PERDIDAS</th>
+        </thead>
+        <tbody>
+            <%jugadores.forEach( jugador =>{%>
+                    <tr>
+                        <td><%=jugador.getNombreUsuario()%></td>
+                        <td><%=jugador.getGanadas()%></td>  
+                        <td><%=jugador.getRetiradas()%></td>  
+                        <td><%=jugador.getPerdidas()%></td>   
+                    </tr> 
+            <%})%>
+
+        </tbody>
+    </table>
+    <br>
+    <a href="/" ><button class="send" style="margin: 0px 45%;">VOLVER AL MENU PRINCIPAL</button></a>
+</body>
+</html>

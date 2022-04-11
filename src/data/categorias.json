@@ -1,0 +1,27 @@
+[
+    {
+        "idCategoria":"1",
+        "nombreCategoría": "Deportes ⚽",
+        "imagen": "/img/deportes.jpg"
+    },
+    {
+        "idCategoria":"2",
+        "nombreCategoría": "Arte 🖌",
+        "imagen": "/img/arte.jpg"
+    },
+    {
+        "idCategoria":"3",
+        "nombreCategoría": "Geografia 🌎",
+        "imagen": "/img/geografia.jpg"
+    },
+    {
+        "idCategoria":"4",
+        "nombreCategoría": "Ciencias 🧬",
+        "imagen": "/img/ciencias.jpg"
+    },
+    {
+        "idCategoria":"5",
+        "nombreCategoría": "Matemáticas 🔢",
+        "imagen": "/img/matematicas.jpg"
+    }
+]
